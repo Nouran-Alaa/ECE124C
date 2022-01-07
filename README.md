@@ -1,12 +1,9 @@
 
-``` 
-var add2 = function(number) {
+```var add2 = function(number) {
 	return number + 2;
-} 
-```js
+}```js
 
-``` 
-is_x_gl:
+```is_x_gl:
         mov current_player, 1
         jmp game_loop
 
@@ -18,5 +15,4 @@ print_char PROC
     
     ; Set the correct attribute
     cmp AL, "X"
-} 
-```asm
+}```asm
