@@ -17,3 +17,5 @@ mov AH, 09h //ay code
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
+- ![#f03c15]hhhhh `#f03c15`
