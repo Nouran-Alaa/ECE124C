@@ -6,7 +6,7 @@ mov AH, 09h //ay code
 ```
 <span style="color: green"> Some green text </span>
 ```css
-<font color="green"> Some green text </font>
+<font color="red"> Some green text </font>
 ```
 ```diff
 - text in red
