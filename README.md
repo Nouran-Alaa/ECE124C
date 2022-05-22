@@ -6,9 +6,9 @@ mov AH, 09h //ay code
 ```
 
 
-<span style="color: green"> Some green text </span>
+
 ```css
-<span style="color: red"> Some green text </span>
+<span style="color: blue"> Some green text </span>
 ```
 ```diff
 - text in red
@@ -17,15 +17,4 @@ mov AH, 09h //ay code
 # text in gray
 @@ text in purple (and bold)@@
 ```
-```css
- p {
-     color: crimson;
-}
-```
-```css
-<p>freeCodeCamp</p>
-```
 
-<span style="color: green"> Some green text </span>
-
-<font color="green"> Some green text </font>
