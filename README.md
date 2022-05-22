@@ -42,7 +42,13 @@ p{color:Black !important;}
 </style>
 ```
 
-<ins> jnkk </ins>
+<ins> ### jnkk </ins>
+
+<ins> ** jnkk ** </ins>
+
+### <ins> jnkk </ins>
+
+** <ins> jnkk </ins> **
 
 # Color Test Document
 
