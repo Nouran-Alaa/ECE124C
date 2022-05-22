@@ -7,3 +7,10 @@ mov AH, 09h //ay code
 <span style="color: green"> Some green text </span>
 
 <font color="green"> Some green text </font>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
