@@ -19,6 +19,9 @@ mov AH, 09h //ay code
 ```css
 <span style="color: #347deb"> Some green text </span>
 ```
+---
+___
+_-
 
 ```html
 <span style="color: #347deb"> Some green text </span>
