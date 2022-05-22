@@ -17,5 +17,10 @@ mov AH, 09h //ay code
 # text in gray
 @@ text in purple (and bold)@@
 ```
+```css
+ p {
+     color: crimson;
+}
+```
 
-- ![#f03c15]hhhhh `#f03c15`
+<p>freeCodeCamp</p>
