@@ -30,7 +30,7 @@ mov AH, 09h //ay code
 # text in gray
 @@ text in purple (and bold)@@
 ```
-```css
+```html
 <style>
 H1{color:Blue !important;}
 H2{color:DarkOrange !important;}
