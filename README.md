@@ -30,4 +30,11 @@ mov AH, 09h //ay code
 # text in gray
 @@ text in purple (and bold)@@
 ```
+H<font color="red">E</font>LLO.
 
+<a style=color:yellow>Color2</a>
+```css
+H<font color="red">E</font>LLO.
+
+<a style=color:yellow>Color2</a>
+```
