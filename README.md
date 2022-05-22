@@ -25,3 +25,7 @@ mov AH, 09h //ay code
 ```css
 <p>freeCodeCamp</p>
 ```
+
+<span style="color: green"> Some green text </span>
+
+<font color="green"> Some green text </font>
