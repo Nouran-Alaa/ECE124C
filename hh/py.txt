@@ -1,0 +1,103 @@
+***** add_fps_into_activitynet_json.py 
+
+What does if __ name __ == Main do in Python?
+Python files can act as either reusable modules, or as standalone programs. if __name__ == “main”: is used to execute some code 
+only if the file was run directly, and not imported.
+
+sys.argv is a list in Python that contains all the command-line arguments passed to the script. It is essential in Python while 
+working with Command Line arguments. 
+
+json.load() takes a file object and returns the json object. A JSON object contains data in the form of key/value pair. The keys are 
+strings and the values are the JSON types. Keys and values are separated by a colon. Each entry (key/value pair) is separated by a 
+comma.
+
+iterdir() method creates an iterator that lists the files randomly.
+
+the .stem property excludes the suffix of the final component 'main.py' and provides only the name of the file 'main'.
+
+The popen() function executes the command specified by the string command. It creates a pipe between the calling program and the 
+executed command, and returns a pointer to a stream that can be used to either read from or write to the pipe.
+
+.Pipe is a module in Python that easily connects the output from one method with the output from another method
+
+. communicate() writes input (there is no input in this case so it just closes subprocess' stdin to indicate to the subprocess that 
+there is no more input), reads all output, and waits for the subprocess to exit. feyh el timeout
+
+The rstrip() method removes any trailing characters (characters at the end a string), space is the default trailing character to 
+remove.
+
+json objects are surrounded by curly braces { }. They are written in key and value pairs.
+
+json.loads() takes in a string and returns a json object.
+
+json.dumps() takes in a json object and returns a string.
+converts the Python objects into appropriate json objects
+
+ffprobe gathers information from multimedia streams and prints it in human- and machine-readable fashion.
+
+line 26 28
+
+**********************************
+
+********* eval_accuracy.py 
+
+zip() returns an iterator of tuples with each tuple having only one element.
+
+The format() method formats the specified value(s) and insert them inside the string's placeholder. The placeholder is defined 
+using curly brackets: {}.
+
+argparse.ArgumentParser() initializes the parser so that you can start to add custom arguments
+
+args = parser.parse_args() runs the parser and places the extracted data in a argparse.Namespace object
+
+line 69
+
+*************************************
+***** remove_dataparallel.py
+
+line 19
+
+************************************
+********* utils.py
+
+line 7
+
+************************************
+********** ucf101_json.py 
+
+The update() method inserts the specified items to the dictionary
+
+In Python Dictionary, items() method is used to return the list with all dictionary keys with values. Parameters: This method takes 
+no parameters. Returns: A view object that displays a list of a given dictionary's (key, value) tuple pair
+
+******************************
+********* generate_video_jpgs.py
+
+os.mkdir() method in Python is used to create a directory named path with the specified numeric mode
+
+
+******************************
+********* model.py
+
+CUDA Python provides uniform APIs and bindings for inclusion into existing toolkits and libraries to simplify GPU-based parallel 
+processing for HPC, data science, and AI
+
+fine tuning msh mafhom w akher 2 functions
+
+**************************
+************ ConfusionResult.py
+
+.cpu() copies the tensor to the CPU, but if it is already on the CPU nothing changes. 
+.numpy() creates a NumPy array from the tensor.
+
+you can dynamically change the default rc (runtime configuration) settings in a python script or interactively from the python shell. 
+All rc settings are stored in a dictionary-like variable called matplotlib.rcParams , which is global to the matplotlib package.
+
+A heatmap is a two-dimensional graphical representation of data where the individual values that are contained in a matrix are 
+represented as colours
+
+
+
+
+
+
